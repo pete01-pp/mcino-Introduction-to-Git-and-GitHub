@@ -1,0 +1,7 @@
+$ git branch -avv
+* bug-fix-revert                eec11f7 Add pull request verification output
+  bug-fix-typo                  c243f4a Fix typo in README
+  main                          a3c2571 [origin/main] Add merge branches output
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert eec11f7 Add pull request verification output
+  remotes/origin/main           a3c2571 Add merge branches output
